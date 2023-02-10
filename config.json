@@ -1,0 +1,29 @@
+{
+    "SAM-3A":
+    {
+        "raw_data":"./data/2023-SAM3A-raw.xlsx"   
+    },
+
+    "SAM-3B":
+    {
+        "raw_data":"./data/2023-SAM3B-raw.xlsx"     
+    },
+    
+    "SAM-4A":
+    {
+        "raw_data":"./data/2023-SAM4A-raw.xlsx"   
+    },
+
+    "SAM-4B":
+    {
+        "raw_data":"./data/2023-SAM4B-raw.xlsx"     
+    },
+    "SSST-TP1":
+    {
+        "raw_data":"./data/2023-SSST-TP1-raw.xlsx"         
+    },
+    "SSST-TP2":
+    {
+        "raw_data":"./data/2023-SSST-TP2-raw.xlsx"      
+    }
+}
