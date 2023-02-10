@@ -1,4 +1,0 @@
-numpy
-matplotlib
-ipywidgets~=8.0
-
